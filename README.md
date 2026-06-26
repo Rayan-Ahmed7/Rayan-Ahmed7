@@ -9,7 +9,7 @@ I enjoy building modern, responsive and scalable web applications using the MERN
 </p>
 
 <p align="center">
-<img src="file:///C:/Users/HAJI%20LAPTOP/Downloads/ChatGPT%20Image%20Jun%2026,%202026,%2004_01_19%20PM.png" />
+  <img src="https://raw.githubusercontent.com/Rayan-Ahmed7/Rayan-Ahmed7/main/banner.png" alt="Rayan Ahmed Banner" width="100%">
 </p>
 
 ---
