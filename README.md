@@ -9,7 +9,7 @@ I enjoy building modern, responsive and scalable web applications using the MERN
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Rayan-Ahmed7&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="file:///C:/Users/HAJI%20LAPTOP/Downloads/ChatGPT%20Image%20Jun%2026,%202026,%2004_01_19%20PM.png" />
 </p>
 
 ---
